@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Curso de Js com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianaVargas/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Cristiana Soares de Vargas <cristiana.svargas@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianaVargas/js-tdd/issues"
+  },
+  "homepage": "https://github.com/CristianaVargas/js-tdd#readme"
+}
